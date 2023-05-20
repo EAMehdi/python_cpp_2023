@@ -7,7 +7,7 @@ char const* getVersion() {
 }
 
 char const* greet() {
-  return "hello, world";
+  return "Bonjour le monde !!!";
 }
 
 namespace py = pybind11;
